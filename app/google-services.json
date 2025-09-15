@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "639572526854",
+    "project_id": "projetofinalapis",
+    "storage_bucket": "projetofinalapis.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639572526854:android:724b8eb3428d2c8e71c087",
+        "android_client_info": {
+          "package_name": "com.example.myapitest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiD6UPV1xOPURRmnB2sb4N7lKt8LZfLNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

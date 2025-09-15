@@ -1,3 +1,83 @@
 <resources>
-    <string name="app_name">MyApiTest - COLOQUE O SEU NOME AQUI</string>
+    <string name="app_name">MyApiTest - Vilson Gabriel Ramos Onofre</string>
+
+    <string name="title_my_cars">Meus Carros</string>
+    <string name="error_loading_cars">Erro ao carregar carros: %s</string>
+    <string name="car_deleted_success">Carro deletado com sucesso</string>
+    <string name="error_deleting_car">Erro ao deletar carro: %s</string>
+
+    <string name="title_car_details">Detalhes do Carro</string>
+    <string name="error_loading_car_details">Erro ao carregar detalhes do carro</string>
+    <string name="error_loading_details">Erro ao carregar detalhes: %s</string>
+    <string name="snippet_car_location">Localização do carro</string>
+    <string name="confirm_delete_title">Confirmar exclusão</string>
+    <string name="confirm_delete_message">Tem certeza que deseja deletar o carro %s?</string>
+    <string name="button_delete">Deletar</string>
+    <string name="button_cancel">Cancelar</string>
+
+    <string name="title_login">Login</string>
+    <string name="error_invalid_phone">Por favor, insira um número de telefone válido</string>
+    <string name="error_invalid_verification_code">Por favor, insira o código de verificação</string>
+    <string name="error_verification_failed">Falha na verificação: %s</string>
+    <string name="error_invalid_verification_code_auth">Código de verificação inválido. Verifique o código e tente novamente.</string>
+    <string name="button_resend_code">Reenviar Código</string>
+    <string name="code_sent_success">Código enviado com sucesso!</string>
+    <string name="login_success">Login realizado com sucesso!</string>
+    <string name="login_failed">Falha no login: %s</string>
+
+    <string name="title_edit_car">Editar Carro</string>
+    <string name="title_add_car">Adicionar Carro</string>
+    <string name="button_change_location">Alterar Localização</string>
+    <string name="error_gallery_permission">Permissão necessária para acessar a galeria</string>
+    <string name="error_loading_car_data">Erro ao carregar dados do carro: %s</string>
+    <string name="car_saved_success">Carro salvo com sucesso!</string>
+    <string name="error_saving_car">Erro ao salvar carro: %s</string>
+    <string name="error_generic">Erro: %s</string>
+    <string name="error_name_required">Nome é obrigatório</string>
+    <string name="error_year_required">Ano é obrigatório</string>
+    <string name="error_license_required">Placa é obrigatória</string>
+    <string name="error_invalid_latitude">Latitude inválida</string>
+    <string name="error_invalid_longitude">Longitude inválida</string>
+    <string name="error_select_location">Por favor, selecione uma localização no mapa</string>
+    <string name="error_select_image">Por favor, selecione uma imagem</string>
+    <string name="error_no_image_selected">Nenhuma imagem selecionada</string>
+
+    <string name="title_select_location">Selecionar Localização</string>
+    <string name="title_select_place">Selecionar Local</string>
+    <string name="marker_selected_location">Localização selecionada</string>
+    <string name="marker_current_location">Localização atual</string>
+    <string name="error_location_permission_denied">Permissão de localização negada</string>
+    <string name="error_select_location_on_map">Por favor, selecione uma localização no mapa</string>
+
+    <string name="dialog_options_title">Opções</string>
+    <string name="option_edit">Editar</string>
+    <string name="option_delete">Deletar</string>
+    <string name="dialog_confirm_delete_title">Confirmar exclusão</string>
+    <string name="dialog_confirm_delete_message">Tem certeza que deseja deletar o carro %1$s?</string>
+    <string name="action_cancel">Cancelar</string>
+
+    <string name="label_year">Ano:</string>
+    <string name="label_license_plate">Placa:</string>
+    <string name="label_location">Localização</string>
+    <string name="label_latitude">Latitude</string>
+    <string name="label_longitude">Longitude</string>
+    <string name="hint_car_name">Nome do carro</string>
+    <string name="hint_year">Ano (ex: 2020/2021)</string>
+    <string name="hint_license_plate">Placa (ex: ABC-1234)</string>
+    <string name="hint_phone_number">Número do telefone</string>
+    <string name="hint_verification_code">Código de verificação</string>
+
+    <string name="button_edit">Editar</string>
+    <string name="button_exclude">Excluir</string>
+    <string name="button_save">Salvar</string>
+    <string name="button_send_code">Enviar Código</string>
+    <string name="button_verify_code">Verificar Código</string>
+    <string name="button_select_on_map">Selecionar no Mapa</string>
+    <string name="button_confirm_location">Confirmar Localização</string>
+    <string name="button_add_car">Adicionar Carro</string>
+
+    <string name="instruction_tap_image">Toque na imagem para alterar</string>
+    <string name="loading_location">Carregando localização...</string>
+
+    <string name="login_title">Login</string>
 </resources>
